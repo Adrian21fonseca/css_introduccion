@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.N8xOziRd8oCpXTx523D0IQHaFe?pid=ImgDet&rs=1);
+    background-size: 2000px, 1000px;
+}
+
+h1{
+    width: 50%;
+    margin: 5% auto;
+    color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+p{
+    width: 50%;
+    margin: 50px auto;
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    width: 100%;
+    background-color: bisque;
+    border-color: darkred;
+    border-style: dashed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
